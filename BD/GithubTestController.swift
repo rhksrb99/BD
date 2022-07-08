@@ -6,3 +6,13 @@
 //
 
 import Foundation
+import UIKit
+
+class GitHubTestController:UIViewController {
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+    }
+    
+}
