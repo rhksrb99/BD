@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		924F712A2877B5E20040C31B /* GithubTestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F71292877B5E20040C31B /* GithubTestController.swift */; };
+		924F712C287AA9F30040C31B /* KakaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F712B287AA9F30040C31B /* KakaoViewController.swift */; };
+		924F712E287AA9FB0040C31B /* MelonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F712D287AA9FB0040C31B /* MelonViewController.swift */; };
+		924F7130287AAA090040C31B /* NewBaeminViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F712F287AAA090040C31B /* NewBaeminViewController.swift */; };
+		924F7132287AAA130040C31B /* OldBaeminViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924F7131287AAA130040C31B /* OldBaeminViewController.swift */; };
 		9292892E2872BF8C0084850D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292892D2872BF8C0084850D /* AppDelegate.swift */; };
 		929289302872BF8C0084850D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292892F2872BF8C0084850D /* SceneDelegate.swift */; };
 		929289322872BF8C0084850D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 929289312872BF8C0084850D /* ViewController.swift */; };
@@ -20,6 +24,10 @@
 
 /* Begin PBXFileReference section */
 		924F71292877B5E20040C31B /* GithubTestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestController.swift; sourceTree = "<group>"; };
+		924F712B287AA9F30040C31B /* KakaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KakaoViewController.swift; sourceTree = "<group>"; };
+		924F712D287AA9FB0040C31B /* MelonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonViewController.swift; sourceTree = "<group>"; };
+		924F712F287AAA090040C31B /* NewBaeminViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBaeminViewController.swift; sourceTree = "<group>"; };
+		924F7131287AAA130040C31B /* OldBaeminViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OldBaeminViewController.swift; sourceTree = "<group>"; };
 		9292892A2872BF8C0084850D /* BD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9292892D2872BF8C0084850D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9292892F2872BF8C0084850D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +77,10 @@
 				929289432873429A0084850D /* TextFieldViewController.swift */,
 				929289452873D86E0084850D /* TestViewController.swift */,
 				929289332872BF8C0084850D /* Main.storyboard */,
+				924F712B287AA9F30040C31B /* KakaoViewController.swift */,
+				924F712D287AA9FB0040C31B /* MelonViewController.swift */,
+				924F712F287AAA090040C31B /* NewBaeminViewController.swift */,
+				924F7131287AAA130040C31B /* OldBaeminViewController.swift */,
 				929289362872BF8C0084850D /* Assets.xcassets */,
 				929289382872BF8C0084850D /* LaunchScreen.storyboard */,
 				9292893B2872BF8C0084850D /* Info.plist */,
@@ -147,11 +159,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				924F712C287AA9F30040C31B /* KakaoViewController.swift in Sources */,
 				924F712A2877B5E20040C31B /* GithubTestController.swift in Sources */,
 				929289462873D86E0084850D /* TestViewController.swift in Sources */,
+				924F7130287AAA090040C31B /* NewBaeminViewController.swift in Sources */,
 				929289442873429A0084850D /* TextFieldViewController.swift in Sources */,
 				929289322872BF8C0084850D /* ViewController.swift in Sources */,
 				9292892E2872BF8C0084850D /* AppDelegate.swift in Sources */,
+				924F712E287AA9FB0040C31B /* MelonViewController.swift in Sources */,
+				924F7132287AAA130040C31B /* OldBaeminViewController.swift in Sources */,
 				929289302872BF8C0084850D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
